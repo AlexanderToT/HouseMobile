@@ -1,0 +1,8 @@
+html { font-family:  Helvetica; background: #f6f5f5;}
+button, input, select, textarea { font-family:  Helvetica}
+html,body,article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary { display: block; margin: 0;padding: 0;}
+h1, h2, h3, h4, h5, h6, p, figure, form, blockquote { margin: 0;padding: 0;}
+ul, ol, li, dl, dd { margin: 0; padding: 0; }
+ul, ol { list-style: none outside none; }
+a{list-style: none; color:black;text-decoration: none;}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
